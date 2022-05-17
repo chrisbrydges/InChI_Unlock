@@ -1,4 +1,4 @@
-# InChI_Unlock
+# InChI Unlock
 Translate chemical compound InChI Keys to PubChem CIDs, SMILES, and KEGG IDs.
 
 [You can access the app here](https://chrisbrydges.shinyapps.io/InChI_Unlock/)
